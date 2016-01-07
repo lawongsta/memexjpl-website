@@ -900,7 +900,7 @@ body {
 
 .about-memex-start{
     font-family: verdana;
-    
+
     margin-bottom: 40px;
 }
 
@@ -912,9 +912,9 @@ img.grayscale {
 
   -webkit-filter: grayscale(100%);
   -webkit-transition: .2s ease-in-out;
-  -moz-filter: grayscale(100%); 
+  -moz-filter: grayscale(100%);
   -moz-transition: .2s ease-in-out;
-  -o-filter: grayscale(100%); 
+  -o-filter: grayscale(100%);
   -o-transition: .2s ease-in-out;
 }
 
@@ -925,7 +925,7 @@ img.grayscale:hover {
   -moz-transition: .2s ease-in-out;
   -o-filter: grayscale(0%);
   -o-transition: .2s ease-in-out;
-} 
+}
 
 @media(min-width:768px) {
     #tools{
@@ -941,6 +941,6 @@ img.grayscale:hover {
 }
 
 .tool-content{
-    font-size: 20px; 
+    font-size: 20px;
     line-height:1.7em;
 }
